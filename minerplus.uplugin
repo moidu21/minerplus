@@ -2,6 +2,7 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "0.0.1",
+	"SemVersion": "0.2.1",
 	"FriendlyName": "belt and miner",
 	"Description": "",
 	"Category": "Modding",
