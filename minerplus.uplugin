@@ -1,9 +1,9 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.0.20",
-	"SemVersion": "2.0.20",
-	"RemoteVersionRange" : "2.0.20",
+	"VersionName": "2.0.21",
+	"SemVersion": "2.0.21",
+	"RemoteVersionRange" : "2.0.21",
 	"FriendlyName": "belt and miner",
 	"Description": "",
 	"Category": "Modding",
