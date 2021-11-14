@@ -22,11 +22,6 @@
 			"Name": "SML",
 			"SemVersion": "^3.1.1",
 			"Enabled": true
-		},
-		{
-			"Name": "HalfVolumeFluids",
-			"SemVersion": "^2.0.0",
-			"Enabled": true
 		}
 	]
 }
