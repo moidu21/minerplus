@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 3,
+	"VersionName": "3.1.7",
+	"SemVersion": "3.1.7",
+	"RemoteVersionRange" : "3.1.7",
+	"FriendlyName": "belt and miner",
+	"Description": "",
+	"Category": "Modding",
+	"CreatedBy": "moidu21",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.3.0",
+			"Enabled": true
+		}
+	]
+}
