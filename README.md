@@ -1,6 +1,6 @@
 # minerplus
 
-A satisfactory mod that add 3 belt and 1 miner
+A satisfactory mod
 
 Download here belt and miner
 https://ficsit.app/mod/2HhpAggag7ST9s
