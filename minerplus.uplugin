@@ -1,9 +1,9 @@
 {
 	"FileVersion": 3,
-	"Version": 2,
-	"VersionName": "2.0.21",
-	"SemVersion": "2.0.21",
-	"RemoteVersionRange" : "2.0.21",
+	"Version": 3,
+	"VersionName": "3.3.2",
+	"SemVersion": "3.3.2",
+	"RemoteVersionRange" : "3.3.2",
 	"FriendlyName": "belt and miner",
 	"Description": "",
 	"Category": "Modding",
@@ -20,12 +20,7 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.1.1",
-			"Enabled": true
-		},
-		{
-			"Name": "HalfVolumeFluids",
-			"SemVersion": "^2.0.0",
+			"SemVersion": "^3.3.2",
 			"Enabled": true
 		}
 	]
